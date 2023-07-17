@@ -6,7 +6,7 @@ The nPunish API allows you to integrate the nPunish plugin functionalities into 
 
 To use the nPunish API in your plugin, follow the steps below:
 
-1. Download the latest version of the nPunish plugin from the [SpigotMC](https://www.spigotmc.org/) website.
+1. Download the latest version of the nPunish plugin from the [SpigotMC](https://www.spigotmc.org/resources/npunish.86155/) website.
 2. Install and enable the nPunish plugin on your Spigot/Paper server.
 3. Add the nPunish plugin as a dependency in your plugin's `plugin.yml` file:
 
