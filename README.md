@@ -92,4 +92,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This API is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to use and modify the API as per your needs. However, you are not allowed to claim it as your own or use it in any commercial project without proper permission. Additionally, you are not permitted to incorporate this API into any plugin or software that replicates or duplicates the functionality of the nPunish plugin.
+
